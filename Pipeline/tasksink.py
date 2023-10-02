@@ -1,9 +1,3 @@
-# Task sink
-# Binds PULL socket to tcp://localhost:5558
-# Collects results from workers via that socket
-#
-# Author: Lev Givon <lev(at)columbia(dot)edu>
-
 import sys
 import time
 import zmq

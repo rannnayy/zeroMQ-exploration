@@ -1,11 +1,3 @@
-# encoding: utf-8
-#
-#   Task sink - design 2
-#   Adds pub-sub flow to send kill signal to workers
-#
-#   Author: Jeremy Avnet (brainsik) <spork(dash)zmq(at)theory(dot)org>
-#
-
 import sys
 import time
 import zmq

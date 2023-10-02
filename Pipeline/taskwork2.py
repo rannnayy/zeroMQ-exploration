@@ -1,11 +1,3 @@
-# encoding: utf-8
-#
-#   Task worker - design 2
-#   Adds pub-sub flow to receive and respond to kill signal
-#
-#   Author: Jeremy Avnet (brainsik) <spork(dash)zmq(at)theory(dot)org>
-#
-
 import sys
 import time
 import zmq

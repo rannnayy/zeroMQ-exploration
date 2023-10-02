@@ -1,6 +1,6 @@
 #### Server
 python server.py 5556
-python server.pt 5546
+python server.py 5546
 
 #### Client
 python client.py 5546 5556
